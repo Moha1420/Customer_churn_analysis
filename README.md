@@ -13,23 +13,37 @@ Gradient Boosting    0.5280       0.0822       0.6650       0.1875       0.0526
 RECOMMENDATIONS & INSIGHTS
 ============================================================
 
+
 Best Performing Model: Random Forest
+
 • ROC-AUC Score: 0.5836
 • F1-Score: 0.0000
 • Accuracy: 0.7150
 
 Key Business Insights from Data:
+
 • Customers with month-to-month contracts have the highest churn risk
+
 • Churn is highest during first 12 months of customer tenure
+
 • Electronic check payment method correlates with higher churn
+
 • Customers without additional services (tech support, online security) churn more
+
 • Senior citizens show different churn patterns than younger customers
 
+
 Actionable Recommendations:
+
 • Offer incentives for longer-term contracts
+
 • Implement early retention programs for new customers (first year)
+
 • Promote paperless billing & automatic payment methods
+
 • Bundle services to increase customer stickiness
+
 • Create targeted offers for high-risk segments
+
 
 Analysis Complete! Check all generated visualizations above.
